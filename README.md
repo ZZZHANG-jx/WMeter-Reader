@@ -1,6 +1,6 @@
-# WMeter-Reader
+# WMeter-Reader (Coming later upon paper publication)
 
-This repository contains the codes and dataset for our paper "[Towards Accurate Readings of Water Meters by Eliminating Uncertainty and Parallax: New Dataset and Effective Solution]()". (Coming later upon paper publication)
+This repository contains the codes and dataset for our paper "[Towards Accurate Readings of Water Meters by Eliminating Uncertainty and Parallax: New Dataset and Effective Solution]()". 
 
 
 ## Methodology

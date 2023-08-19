@@ -21,7 +21,8 @@ Fine-grained annotations are provided for each image, including bounding box and
 </p>
 
 
-
+## Citation
+If you are using our code and data, please consider citing our paper.
 ```
 @article{zhang2023wmeter,
 title={Towards Accurate Readings of Water Meters by Eliminating Uncertainty and Parallax: New Dataset and Effective Solution},

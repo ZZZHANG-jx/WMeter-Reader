@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# <img src="imgs/icon.png" width="30"/> Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution
+# <img src="imgs/icon.png" width="40"/> Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution
 
 </div>
 

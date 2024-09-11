@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution
+# <img src="imgs/icon.png" width="30"/> Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution
 
 </div>
 
@@ -14,14 +14,14 @@ This is the official implementation of our paper [Towards Accurate Readings of W
 
 ## Methodology
 <p align="center">
-<img src="imgs/method.png" width="400">  
+<img src="imgs/method.png" width="500">  
 </p>
 
 
 ## WMeter5K dataset 
 WMeter5K totally contains 5,000 water meter images, which are all captured by the add-on camera attached to real-world water meters. Fine-grained annotations are provided for each image, including bounding box and readings for each digital wheel and pointer, and the overall readings of the entire meter. 
 <p align="center">
-<img src="imgs/dataset1.png" width="300">  <img src="imgs/dataset2.png" width="400"> 
+<img src="imgs/dataset1.png" width="300">  <img src="imgs/dataset2.png" width="450"> 
 </p>
 
 1. Down load WMeter5K from [here](https://1drv.ms/f/s!Ak15mSdV3Wy4ibBVkrDerbSXLaEH7Q?e=RUzERx) and put it to `./dataset/WMeter5K`

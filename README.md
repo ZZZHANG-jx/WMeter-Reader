@@ -6,7 +6,7 @@
 </div>
 
 
-This is the official implementation of our paper [Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution]().
+This is the official implementation of our paper [Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution](https://onedrive.live.com/?id=B86CDD552799794D%21153685&resid=B86CDD552799794D%21153685&ithint=folder&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBazE1bVNkVjNXeTRpYkJWa3JEZXJiU1hMYUVIN1E%5FZT1SVXpFUng&migratedtospo=true&cid=b86cdd552799794d&v=validatepermission).
 
 ## News 
 🔥 A comprehensive list of [Awesome Image-based Meter Recognition Reading](https://github.com/ZZZHANG-jx/Awesome-Image-based-Meter-Recognition-Reading) methods and datasets is available.
